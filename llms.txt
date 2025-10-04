@@ -1,0 +1,50 @@
+# UI Journey - Web Design Trends Timeline
+
+> An interactive timeline website showcasing web design trends from the 2000s to 2025
+
+## Project Overview
+
+UI Journey is a timeline-based web application that allows users to visually explore the evolution of web design.
+
+## Main Content
+
+### Design Trends Timeline (2000-2025)
+
+- **2000-2006**: Skeuomorphism Era
+- **2010-2013**: Flat Design & Metro UI
+- **2014-2016**: Material Design & Gradient Revival
+- **2017-2019**: Brutalism / Minimalism / Neumorphism
+- **2020-2021**: Glassmorphism & Claymorphism
+- **2022-2023**: Dark Mode, Neon Style, 3D & Isometric
+- **2024-2025**: Scroll Animation, Y2K Revival, AI Design
+
+## Tech Stack
+
+- React 19
+- TypeScript
+- Tailwind CSS 4
+- React Query
+- React Router
+- i18next (Internationalization)
+
+## Features
+
+- Mobile-first design
+- Responsive layout
+- Accessibility (A11y) focused
+- SEO optimized
+- Domain-driven architecture
+
+## Site Information
+
+- Type: Educational and reference material
+- Target audience: Designers, developers, and web design enthusiasts
+- Update frequency: Monthly
+
+## License
+
+Private
+
+---
+
+> This file is written to help LLMs (Large Language Models) understand the site.
